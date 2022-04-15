@@ -1,0 +1,48 @@
+
+/* Hunter Hawkins 4/6/2022 */
+/* For Tableau Page */
+
+/* Custom Styles for the body */
+body { 
+   background-image: url(../images/Leo\ Surf.jpeg);
+   background-position: bottom right;
+   background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.center {
+  margin: auto;
+  width: 90%;
+}
+
+/* Custom Styles for the Header */
+.unorderlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+/* Custom Styles for the Footer */
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #333;
+  color: white;

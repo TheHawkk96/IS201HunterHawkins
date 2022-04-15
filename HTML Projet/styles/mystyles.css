@@ -1,0 +1,33 @@
+/* Hunter Hawkins 4/6/2022 */
+
+/* Custom Styles */
+
+body { 
+    background-color: whitesmoke;
+}
+.bold {
+  font-weight: bold;
+}
+.smalltitle{
+  font-size: larger;
+}
+ul {
+  font-weight: normal;
+}
+
+/* Custom Footer Styles */
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
